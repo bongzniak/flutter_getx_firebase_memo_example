@@ -1,0 +1,1 @@
+# flutter_getx_firebase_memo_example
